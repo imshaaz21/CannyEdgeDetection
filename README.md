@@ -1,4 +1,4 @@
-# Canny Edge Detection
+# Canny Edge Detection from scratch
 
 This project implements Canny Edge Detection from scratch, a fundamental image processing technique that identifies edges in images. The process involves five main steps:
 
