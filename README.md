@@ -44,4 +44,4 @@ Shanaaz Ahamed
 This project is open-source under the [MIT License](LICENSE). Feel free to use, modify, and share.
 
 ---
-[GitHub Repository Link]
+[GitHub Repository Link](https://github.com/imshaaz21/CannyEdgeDetection)
