@@ -37,7 +37,7 @@ I provide a comparison with OpenCV's Canny Edge Detection to verify my implement
 
 ## Author
 
-Shanaaz Ahamed
+[Author](https://github.com/imshaaz21)
 
 ## License
 
