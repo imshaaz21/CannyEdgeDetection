@@ -1,6 +1,7 @@
 # Canny Edge Detection from scratch
 
 Canny Edge Detection is a fundamental image processing technique that identifies edges in images. It is widely used in various computer vision applications, such as object detection, image segmentation, and motion tracking.
+
 This project implements Canny Edge Detection from scratch in Python. It follows the five main steps of the algorithm:
 
 1. **Grayscale Conversion**: Color images are converted to grayscale, making edge detection simpler.
